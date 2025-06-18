@@ -1,0 +1,251 @@
+Date,Year,Brand,State,Color,Condition,Body Type,Transmission,Unit Price,Quantity,Total Sales
+2019-06-23,2020,Aston Martin,Tennessee,Turquoise,38.1,Minivan,Manual,70000,5,350000
+2017-06-22,2011,Tesla,Ohio,Lime,28.3,SuperCrew,Manual,80000,4,320000
+2019-05-03,2017,Lotus,Georgia,Brown,32.9,Crew Cab,Manual,50000,3,150000
+2015-07-28,1998,Infiniti,Florida,Pink,11.7,Sedan,Automatic,45000,1,45000
+2020-12-20,2023,Hyundai,Texas,Gray,38.0,G Sedan,Automatic,24000,5,120000
+2018-12-12,2001,Lexus,Georgia,Silver,16.7,G Sedan,Automatic,47000,1,47000
+2019-11-19,2009,Lamborghini,Tennessee,Pink,24.7,Crew Cab,Automatic,140000,2,280000
+2017-01-11,2011,Hyundai,Missouri,Silver,25.5,Minivan,Manual,24000,3,72000
+2020-05-19,2003,Toyota,Florida,Charcoal,20.5,G Sedan,Automatic,29000,3,87000
+2022-04-16,1998,Chevrolet,California,Yellow,13.2,SuperCrew,Manual,32000,5,160000
+2017-01-24,2010,Lotus,Missouri,Orange,22.7,Convertible,Automatic,50000,5,250000
+2017-10-08,2012,Rolls Royce,Tennessee,Black,28.7,Hatchback,Automatic,180000,4,720000
+2018-02-28,2001,Tesla,California,Beige,18.9,G Sedan,Manual,80000,4,320000
+2020-04-24,2015,Lexus,Pennsylvania,Purple,30.0,Convertible,Manual,47000,1,47000
+2016-12-29,2003,Ferrari,Tennessee,Lime,20.0,SUV,Manual,160000,2,320000
+2020-02-20,1994,Porsche,California,Lime,12.0,Minivan,Automatic,52000,2,104000
+2020-04-01,2013,Tesla,Georgia,Blue,28.0,Wagon,Manual,80000,3,240000
+2020-05-28,2021,Tesla,California,Turquoise,34.1,Crew Cab,Automatic,80000,3,240000
+2017-05-19,2023,Nissan,Illinois,Charcoal,37.0,SUV,Automatic,28000,3,84000
+2019-06-19,2008,Chrysler,Georgia,White,24.8,Wagon,Manual,25000,1,25000
+2021-11-20,1991,Bentley,Missouri,Lime,6.7,Sedan,Automatic,120000,3,360000
+2025-05-24,2009,Fisker,Ohio,Yellow,23.0,SUV,Manual,60000,2,120000
+2020-10-26,2000,Ford,New York,Yellow,17.4,Hatchback,Manual,30000,3,90000
+2018-02-11,2017,Lotus,Missouri,Blue,35.0,Coupe,Manual,50000,4,200000
+2018-05-02,2015,BMW,Tennessee,Green,29.6,G Sedan,Manual,50000,2,100000
+2017-07-17,1997,Dodge,Tennessee,Off-White,13.1,Sedan,Manual,27000,3,81000
+2017-08-22,2001,Dodge,California,Green,17.3,G Sedan,Automatic,27000,2,54000
+2020-01-15,2010,Bentley,Georgia,Green,26.4,Hatchback,Automatic,120000,3,360000
+2018-12-12,2021,Porsche,Illinois,Pink,35.1,Hatchback,Automatic,52000,1,52000
+2023-07-02,1998,Lexus,California,Black,11.8,Crew Cab,Automatic,47000,5,235000
+2018-08-22,2017,Nissan,Illinois,Blue,31.6,SUV,Manual,28000,5,140000
+2024-03-04,2000,Kia,California,Pink,13.0,SuperCrew,Manual,23000,5,115000
+2018-11-30,2018,Chrysler,Ohio,Pink,36.8,Coupe,Automatic,25000,2,50000
+2021-12-15,2007,Dodge,Texas,Pink,24.1,Coupe,Automatic,27000,3,81000
+2022-03-08,2015,Kia,Tennessee,Gold,33.1,Convertible,Automatic,23000,1,23000
+2024-10-19,2003,Aston Martin,Ohio,Turquoise,15.7,SuperCrew,Automatic,70000,4,280000
+2019-07-08,1996,BMW,New York,Green,11.5,Crew Cab,Manual,50000,1,50000
+2018-09-14,1996,Tesla,California,Yellow,10.9,Convertible,Automatic,80000,4,320000
+2021-03-12,2024,Fisker,Ohio,Silver,37.9,Minivan,Manual,60000,2,120000
+2015-11-23,2002,Nissan,New York,Purple,15.7,Sedan,Manual,28000,4,112000
+2017-03-23,2001,Tesla,Illinois,Charcoal,14.3,Convertible,Manual,80000,2,160000
+2017-10-05,2018,Tesla,Georgia,Off-White,31.5,Minivan,Manual,80000,4,320000
+2022-02-12,1998,Nissan,Pennsylvania,Green,15.7,Convertible,Manual,28000,2,56000
+2024-09-12,2013,Chevrolet,New York,White,28.8,Crew Cab,Automatic,32000,2,64000
+2020-10-04,2019,Lexus,Georgia,Purple,37.8,G Sedan,Manual,47000,2,94000
+2015-07-27,2008,Lamborghini,California,Purple,22.9,Convertible,Manual,140000,4,560000
+2018-08-20,2022,Ferrari,Illinois,Lime,38.0,Convertible,Manual,160000,4,640000
+2022-01-31,2003,Ferrari,Tennessee,Blue,17.9,Minivan,Automatic,160000,5,800000
+2021-01-10,2015,Rolls Royce,New York,Brown,31.1,Minivan,Manual,180000,1,180000
+2021-07-12,2012,Lamborghini,Tennessee,Off-White,26.0,G Sedan,Manual,140000,5,700000
+2015-07-08,2011,Lamborghini,Tennessee,Red,28.1,Minivan,Manual,140000,2,280000
+2023-03-02,1990,Lexus,Ohio,White,7.1,Hatchback,Automatic,47000,4,188000
+2020-08-23,2019,Dodge,Texas,Orange,37.5,Sedan,Manual,27000,3,81000
+2022-04-06,2021,Honda,Ohio,Gold,34.0,Minivan,Manual,26000,2,52000
+2016-04-28,2009,Hyundai,Texas,Silver,23.9,Sedan,Automatic,24000,3,72000
+2018-05-05,1996,Dodge,Texas,Charcoal,12.4,Coupe,Automatic,27000,5,135000
+2019-07-21,2011,Ford,Ohio,Pink,26.4,Coupe,Manual,30000,3,90000
+2024-09-06,2008,BMW,New York,Pink,21.0,Sedan,Automatic,50000,1,50000
+2019-04-30,1999,Chrysler,Pennsylvania,Blue,11.8,Hatchback,Manual,25000,5,125000
+2018-07-11,1996,BMW,Texas,Beige,13.0,SuperCrew,Automatic,50000,1,50000
+2022-10-31,2023,Honda,Georgia,Beige,40.0,Wagon,Automatic,26000,2,52000
+2015-07-21,2010,Tesla,Missouri,Orange,23.5,Hatchback,Manual,80000,5,400000
+2018-03-25,1991,Lexus,Tennessee,Black,5.3,Crew Cab,Manual,47000,3,141000
+2024-09-17,2006,Honda,Texas,Off-White,21.8,Convertible,Automatic,26000,2,52000
+2019-05-14,1992,Ford,Ohio,Brown,9.2,Convertible,Manual,30000,2,60000
+2015-09-15,1990,Dodge,Florida,Gold,3.9,G Sedan,Manual,27000,4,108000
+2016-08-23,2019,Ford,Missouri,Blue,35.0,Hatchback,Automatic,30000,3,90000
+2019-02-22,2008,Rolls Royce,Georgia,Beige,23.8,G Sedan,Automatic,180000,1,180000
+2018-04-12,1998,Aston Martin,Florida,Silver,11.4,Sedan,Manual,70000,2,140000
+2020-11-13,1997,Bentley,Texas,Orange,12.5,SuperCrew,Manual,120000,2,240000
+2017-08-18,1996,Toyota,Illinois,Pink,8.5,SUV,Automatic,29000,4,116000
+2021-10-02,2006,Kia,Georgia,Yellow,22.2,Hatchback,Automatic,23000,1,23000
+2017-09-20,2008,Infiniti,Florida,Black,25.4,Minivan,Manual,45000,4,180000
+2018-09-21,2016,Honda,New York,Gray,29.4,Hatchback,Automatic,26000,2,52000
+2021-07-23,2006,Rolls Royce,Texas,Lime,22.6,Wagon,Automatic,180000,2,360000
+2020-10-14,2013,Toyota,Tennessee,Green,28.7,Sedan,Manual,29000,3,87000
+2022-02-10,2014,Toyota,Florida,Beige,31.4,Minivan,Automatic,29000,3,87000
+2018-11-25,2010,Infiniti,Missouri,Turquoise,28.0,SUV,Automatic,45000,3,135000
+2024-12-26,2018,Hyundai,Illinois,Turquoise,36.0,Hatchback,Manual,24000,5,120000
+2019-03-16,1996,Hyundai,California,Gray,10.4,Wagon,Automatic,24000,2,48000
+2025-01-07,1998,Honda,Texas,Pink,14.1,G Sedan,Automatic,26000,4,104000
+2019-09-01,2011,Hyundai,Illinois,Off-White,28.4,SuperCrew,Automatic,24000,1,24000
+2018-02-27,2020,Kia,California,Red,38.2,Wagon,Manual,23000,3,69000
+2021-12-30,1990,Honda,Pennsylvania,Lime,5.8,Crew Cab,Manual,26000,2,52000
+2018-08-28,2018,Ferrari,Tennessee,Silver,31.6,Convertible,Manual,160000,4,640000
+2018-08-30,2023,Fisker,Ohio,Gold,38.4,Wagon,Automatic,60000,2,120000
+2018-06-22,2009,Ferrari,Texas,Pink,26.7,G Sedan,Manual,160000,1,160000
+2019-05-19,2007,Hyundai,Ohio,Green,22.1,SuperCrew,Manual,24000,2,48000
+2018-05-29,1994,Ferrari,New York,Green,11.7,Wagon,Manual,160000,5,800000
+2023-12-22,2018,Tesla,Ohio,White,31.6,G Sedan,Manual,80000,3,240000
+2020-03-21,2002,Lexus,Georgia,Green,17.0,Sedan,Automatic,47000,4,188000
+2024-04-20,2003,Mercedes-Benz,Ohio,Silver,17.1,SuperCrew,Manual,55000,4,220000
+2025-04-20,2008,Maserati,Georgia,Blue,25.3,SuperCrew,Automatic,55000,1,55000
+2021-08-22,2004,Kia,Illinois,Brown,21.1,Minivan,Automatic,23000,4,92000
+2023-05-05,2011,Lexus,Ohio,Gray,28.8,Wagon,Automatic,47000,5,235000
+2023-01-30,1990,Aston Martin,Missouri,Yellow,3.1,G Sedan,Automatic,70000,5,350000
+2021-11-23,2004,Nissan,Missouri,Blue,19.6,SuperCrew,Automatic,28000,5,140000
+2021-10-03,2023,Aston Martin,Georgia,Yellow,41.3,Hatchback,Manual,70000,1,70000
+2017-12-22,1994,Nissan,Pennsylvania,Green,7.7,Minivan,Manual,28000,4,112000
+2016-06-19,2009,Nissan,Texas,Lime,24.9,Wagon,Manual,28000,3,84000
+2021-10-14,2012,BMW,Georgia,Pink,27.5,Crew Cab,Automatic,50000,3,150000
+2024-10-12,1994,Chrysler,Ohio,Blue,6.9,Minivan,Manual,25000,4,100000
+2021-05-03,2023,Fisker,Florida,Lime,38.1,Wagon,Manual,60000,5,300000
+2016-09-15,1994,Ford,Tennessee,Purple,12.0,SUV,Manual,30000,4,120000
+2025-02-08,2013,Fisker,Georgia,Charcoal,31.2,Convertible,Automatic,60000,4,240000
+2015-07-29,2016,Dodge,Missouri,Blue,31.2,SuperCrew,Manual,27000,2,54000
+2020-01-21,2009,Rolls Royce,Ohio,Pink,27.2,Crew Cab,Manual,180000,5,900000
+2024-05-23,2010,Porsche,California,Lime,28.1,SUV,Manual,52000,5,260000
+2021-11-12,1997,Porsche,Illinois,Gray,10.9,Convertible,Automatic,52000,1,52000
+2017-04-17,2017,Mercedes-Benz,Illinois,Green,29.9,Wagon,Manual,55000,4,220000
+2020-04-20,1998,Toyota,Pennsylvania,Turquoise,15.0,SUV,Automatic,29000,1,29000
+2016-07-27,2007,Lexus,Georgia,White,19.9,Coupe,Manual,47000,1,47000
+2016-07-11,1998,Lamborghini,Pennsylvania,Beige,13.5,Convertible,Automatic,140000,2,280000
+2018-08-02,2019,Honda,Missouri,Yellow,33.8,Minivan,Manual,26000,3,78000
+2018-10-21,2003,Bentley,Pennsylvania,Green,18.8,Wagon,Manual,120000,1,120000
+2016-08-25,1991,Lamborghini,Tennessee,Turquoise,4.1,Coupe,Automatic,140000,4,560000
+2017-03-25,2014,Honda,Georgia,Gray,29.1,Hatchback,Automatic,26000,2,52000
+2023-12-11,2014,Ferrari,Tennessee,Blue,28.2,Convertible,Automatic,160000,3,480000
+2020-11-16,1990,Aston Martin,Illinois,Turquoise,4.4,Crew Cab,Automatic,70000,3,210000
+2018-04-10,1999,BMW,Georgia,Charcoal,13.6,Sedan,Automatic,50000,2,100000
+2022-02-25,2008,Rolls Royce,Ohio,White,24.9,Hatchback,Manual,180000,4,720000
+2016-07-23,2019,Toyota,Pennsylvania,Gold,34.5,Minivan,Automatic,29000,1,29000
+2017-11-02,2007,Porsche,Pennsylvania,Lime,20.5,SUV,Manual,52000,2,104000
+2021-03-06,1990,Ford,Illinois,Orange,4.7,Wagon,Manual,30000,2,60000
+2023-10-10,2001,Toyota,Missouri,Brown,18.9,Wagon,Manual,29000,4,116000
+2023-01-14,2011,Kia,Missouri,Blue,28.5,Crew Cab,Automatic,23000,4,92000
+2023-02-12,1992,Infiniti,California,Red,6.8,Wagon,Manual,45000,3,135000
+2018-10-06,2021,Toyota,Tennessee,Lime,36.1,Wagon,Manual,29000,5,145000
+2024-09-21,2010,Nissan,Florida,Silver,28.4,G Sedan,Automatic,28000,5,140000
+2020-06-27,2001,Lotus,Texas,Brown,15.4,Hatchback,Automatic,50000,3,150000
+2019-03-07,2015,Lexus,Ohio,Blue,30.8,SUV,Automatic,47000,3,141000
+2023-07-23,2007,Lotus,Missouri,White,20.5,Coupe,Automatic,50000,5,250000
+2023-09-10,2020,Chrysler,Ohio,Charcoal,36.3,Crew Cab,Automatic,25000,3,75000
+2024-07-07,2010,Ford,Missouri,Orange,27.7,Coupe,Automatic,30000,4,120000
+2021-02-11,2010,Kia,Tennessee,Yellow,26.4,G Sedan,Automatic,23000,5,115000
+2022-01-29,1991,Nissan,Florida,Red,7.3,Coupe,Manual,28000,4,112000
+2018-11-24,2007,Rolls Royce,Missouri,Yellow,24.6,Hatchback,Manual,180000,2,360000
+2016-08-10,1991,Aston Martin,Texas,Pink,4.4,Hatchback,Automatic,70000,5,350000
+2016-06-19,2021,Tesla,New York,Orange,38.1,G Sedan,Manual,80000,1,80000
+2018-01-26,2002,Toyota,Pennsylvania,Purple,15.5,Convertible,Manual,29000,4,116000
+2021-07-08,2023,Porsche,Missouri,Green,36.3,Convertible,Automatic,52000,1,52000
+2025-03-18,2000,Lamborghini,Tennessee,Blue,13.4,Sedan,Manual,140000,5,700000
+2017-09-16,2006,Lotus,Texas,Brown,18.5,Convertible,Automatic,50000,1,50000
+2020-03-07,1992,Chrysler,New York,Orange,7.1,G Sedan,Automatic,25000,3,75000
+2017-03-24,2018,Mercedes-Benz,Missouri,Turquoise,33.5,SuperCrew,Manual,55000,2,110000
+2022-05-05,2010,Mercedes-Benz,Texas,Lime,24.5,Crew Cab,Automatic,55000,3,165000
+2023-02-03,2010,Aston Martin,Texas,Brown,28.1,SUV,Manual,70000,3,210000
+2021-01-16,1991,Infiniti,New York,Red,4.1,Sedan,Automatic,45000,2,90000
+2021-06-23,1995,Ferrari,Pennsylvania,Turquoise,12.4,Crew Cab,Manual,160000,2,320000
+2022-04-01,2011,Nissan,Georgia,Orange,25.6,Crew Cab,Automatic,28000,1,28000
+2020-05-06,1997,Nissan,Ohio,Silver,12.6,Coupe,Automatic,28000,5,140000
+2022-06-13,2011,Ferrari,Tennessee,Lime,25.9,Coupe,Manual,160000,5,800000
+2018-04-24,1996,Ford,Illinois,Brown,12.2,Coupe,Manual,30000,2,60000
+2022-05-17,2009,BMW,Pennsylvania,Pink,24.5,Crew Cab,Automatic,50000,4,200000
+2025-05-27,2018,Lexus,California,Yellow,35.6,Convertible,Automatic,47000,5,235000
+2016-08-03,1993,Nissan,Illinois,Lime,9.8,Crew Cab,Manual,28000,4,112000
+2016-11-11,2001,Aston Martin,Ohio,Black,14.9,G Sedan,Manual,70000,1,70000
+2017-07-24,2006,Chevrolet,Texas,Brown,18.5,Crew Cab,Automatic,32000,2,64000
+2015-06-26,1996,Aston Martin,New York,Brown,13.4,G Sedan,Automatic,70000,3,210000
+2022-01-23,2012,Toyota,Florida,Gray,25.7,Crew Cab,Automatic,29000,5,145000
+2017-08-31,1997,Ferrari,Illinois,Charcoal,14.9,Hatchback,Automatic,160000,3,480000
+2022-08-09,2013,Maserati,Illinois,Yellow,26.6,Coupe,Automatic,55000,2,110000
+2016-07-10,2008,Kia,Florida,Brown,25.6,G Sedan,Manual,23000,4,92000
+2022-07-26,2007,Mercedes-Benz,Ohio,Green,20.7,Wagon,Automatic,55000,1,55000
+2019-10-02,2014,Nissan,New York,Purple,28.5,SuperCrew,Automatic,28000,2,56000
+2023-03-14,2009,BMW,Illinois,Beige,24.4,Crew Cab,Automatic,50000,5,250000
+2018-08-03,2012,Maserati,Missouri,Yellow,26.6,Convertible,Manual,55000,4,220000
+2023-03-26,2023,Dodge,Texas,Charcoal,39.1,SuperCrew,Automatic,27000,4,108000
+2018-01-18,2014,BMW,Ohio,Black,32.4,Wagon,Automatic,50000,2,100000
+2020-12-25,2003,Lamborghini,California,Charcoal,18.1,Coupe,Manual,140000,5,700000
+2017-11-12,1996,Toyota,Missouri,Turquoise,12.6,Hatchback,Manual,29000,3,87000
+2017-11-12,2006,Tesla,Tennessee,Turquoise,23.4,G Sedan,Manual,80000,2,160000
+2019-10-20,2021,Mercedes-Benz,Pennsylvania,Yellow,34.3,Minivan,Automatic,55000,3,165000
+2021-10-23,2001,Hyundai,Missouri,Pink,17.3,G Sedan,Manual,24000,3,72000
+2017-12-15,2003,Ferrari,New York,Black,18.5,Sedan,Automatic,160000,2,320000
+2019-07-17,1991,Mercedes-Benz,Missouri,Off-White,4.2,SUV,Automatic,55000,1,55000
+2025-05-20,1996,Chevrolet,Tennessee,Gold,11.9,Coupe,Manual,32000,2,64000
+2020-12-24,1997,Lotus,Illinois,Yellow,13.4,Wagon,Manual,50000,2,100000
+2021-06-18,2024,BMW,Missouri,Lime,40.5,Hatchback,Automatic,50000,1,50000
+2025-05-09,2002,Lamborghini,New York,Yellow,20.0,Sedan,Manual,140000,4,560000
+2021-04-12,2023,Rolls Royce,Ohio,Lime,39.0,Sedan,Manual,180000,5,900000
+2016-02-23,2000,Infiniti,Ohio,Off-White,18.0,Minivan,Manual,45000,4,180000
+2022-04-08,1998,Nissan,Texas,Gray,13.9,Coupe,Manual,28000,4,112000
+2015-10-22,2014,Maserati,Pennsylvania,Turquoise,31.2,SuperCrew,Manual,55000,5,275000
+2016-07-10,1991,Fisker,Illinois,Beige,7.0,Wagon,Automatic,60000,2,120000
+2016-06-08,2016,Nissan,Ohio,White,29.4,Sedan,Automatic,28000,4,112000
+2018-05-21,1999,Nissan,New York,Blue,13.5,Wagon,Automatic,28000,4,112000
+2022-04-19,2020,Kia,Georgia,Silver,37.8,Crew Cab,Automatic,23000,1,23000
+2016-10-12,2017,Bentley,Texas,Silver,30.7,G Sedan,Automatic,120000,2,240000
+2022-10-05,1993,Tesla,Pennsylvania,Turquoise,8.7,Minivan,Automatic,80000,4,320000
+2017-08-03,2010,Chrysler,New York,Black,25.0,Convertible,Manual,25000,4,100000
+2019-06-11,2018,Infiniti,Pennsylvania,Brown,33.6,Hatchback,Automatic,45000,2,90000
+2019-05-14,2006,Lamborghini,Tennessee,Purple,19.6,SUV,Automatic,140000,3,420000
+2025-01-10,2001,Mercedes-Benz,Missouri,Red,15.5,Hatchback,Automatic,55000,4,220000
+2016-06-06,2016,Toyota,Ohio,Off-White,29.8,SuperCrew,Manual,29000,5,145000
+2020-06-05,2003,Ford,Texas,Silver,15.9,Coupe,Automatic,30000,1,30000
+2017-01-01,1991,Ford,Georgia,Red,7.0,Coupe,Automatic,30000,1,30000
+2022-12-04,2010,Lotus,California,Beige,28.1,Wagon,Automatic,50000,4,200000
+2015-09-20,2018,Tesla,Florida,Beige,33.5,Hatchback,Automatic,80000,4,320000
+2022-01-24,2006,Lexus,Illinois,Blue,22.6,Coupe,Automatic,47000,2,94000
+2023-09-21,2010,Honda,Missouri,Gold,23.1,SUV,Automatic,26000,5,130000
+2022-06-28,1993,Honda,Illinois,Brown,6.5,Crew Cab,Manual,26000,2,52000
+2021-09-15,2005,Bentley,Ohio,Silver,23.3,Hatchback,Automatic,120000,2,240000
+2021-11-09,2004,Lamborghini,Florida,Beige,18.1,Hatchback,Manual,140000,1,140000
+2023-07-30,1995,Fisker,Georgia,Green,11.4,Coupe,Manual,60000,5,300000
+2019-06-23,2014,Tesla,California,Black,28.1,SUV,Manual,80000,4,320000
+2018-07-21,2006,Lamborghini,Tennessee,Yellow,24.0,Coupe,Automatic,140000,3,420000
+2021-06-04,2009,Nissan,Florida,Purple,27.4,Sedan,Automatic,28000,1,28000
+2020-09-13,2004,Lamborghini,New York,Brown,19.1,Sedan,Automatic,140000,4,560000
+2019-12-03,2011,Bentley,Missouri,Brown,29.6,SuperCrew,Automatic,120000,5,600000
+2018-05-27,1990,Mercedes-Benz,Tennessee,Off-White,5.3,Crew Cab,Automatic,55000,5,275000
+2022-10-02,2012,Toyota,Missouri,Blue,29.1,G Sedan,Manual,29000,5,145000
+2023-01-14,2016,Lotus,Georgia,Lime,30.1,G Sedan,Automatic,50000,5,250000
+2017-04-18,1991,Ford,Illinois,Gold,8.7,SUV,Automatic,30000,4,120000
+2020-02-15,1991,Hyundai,Pennsylvania,Purple,8.2,Convertible,Manual,24000,4,96000
+2019-12-26,2009,Lotus,Missouri,Orange,25.6,Hatchback,Automatic,50000,1,50000
+2017-09-20,2020,Lamborghini,Missouri,Blue,37.4,Coupe,Automatic,140000,3,420000
+2017-11-10,2011,Mercedes-Benz,California,Blue,28.4,Convertible,Manual,55000,1,55000
+2020-11-14,2005,Ford,Pennsylvania,Black,22.1,Minivan,Manual,30000,2,60000
+2018-02-07,2003,Bentley,Pennsylvania,Orange,20.3,G Sedan,Manual,120000,4,480000
+2020-02-26,2008,Honda,Illinois,White,22.2,Convertible,Automatic,26000,5,130000
+2015-09-22,2006,Infiniti,Ohio,Red,18.6,SUV,Manual,45000,2,90000
+2023-08-12,2019,Toyota,Pennsylvania,Yellow,32.7,Wagon,Manual,29000,3,87000
+2018-11-05,2011,Maserati,Ohio,Orange,24.6,Coupe,Automatic,55000,5,275000
+2021-07-27,1997,Kia,Florida,Lime,14.0,Convertible,Automatic,23000,1,23000
+2019-12-18,2015,Mercedes-Benz,Pennsylvania,Turquoise,32.4,G Sedan,Manual,55000,3,165000
+2018-01-07,2013,Rolls Royce,Tennessee,Yellow,29.5,SuperCrew,Automatic,180000,4,720000
+2017-09-22,1990,Nissan,Tennessee,Black,6.8,Coupe,Manual,28000,5,140000
+2023-07-07,1991,Lotus,New York,Off-White,3.4,Coupe,Automatic,50000,2,100000
+2025-03-31,2003,Honda,Georgia,Gray,16.4,Hatchback,Automatic,26000,5,130000
+2024-05-02,1995,Nissan,Pennsylvania,Off-White,10.2,Crew Cab,Automatic,28000,2,56000
+2018-10-15,1996,Maserati,California,Silver,12.1,Coupe,Automatic,55000,5,275000
+2016-04-30,2002,Lexus,Missouri,Gold,18.4,Wagon,Automatic,47000,5,235000
+2022-11-19,1992,Chevrolet,Missouri,Black,7.2,Coupe,Manual,32000,1,32000
+2017-09-03,2018,Chrysler,Pennsylvania,Orange,33.8,G Sedan,Automatic,25000,5,125000
+2017-12-23,2018,Tesla,New York,Purple,32.5,Crew Cab,Automatic,80000,4,320000
+2024-02-27,2011,Hyundai,Ohio,Gold,24.7,Wagon,Automatic,24000,4,96000
+2024-10-12,1995,Mercedes-Benz,Ohio,Pink,12.0,Sedan,Automatic,55000,4,220000
+2018-08-13,2014,Ford,Missouri,Gold,31.5,Crew Cab,Automatic,30000,4,120000
+2025-05-05,2009,Mercedes-Benz,Illinois,Yellow,22.6,Convertible,Automatic,55000,1,55000
+2022-10-02,2014,Ferrari,Ohio,Green,30.6,SUV,Automatic,160000,4,640000
+2017-11-19,2003,Maserati,California,Gold,18.1,Sedan,Manual,55000,4,220000
+2022-03-17,2001,Honda,Pennsylvania,Red,18.7,SuperCrew,Automatic,26000,3,78000
+2015-12-20,2000,Kia,Illinois,Lime,16.1,Sedan,Automatic,23000,5,115000
+2019-07-19,2020,BMW,Missouri,Yellow,33.4,Coupe,Manual,50000,4,200000
+2015-11-20,2006,Honda,Florida,Beige,24.4,G Sedan,Manual,26000,3,78000
+2016-09-06,1997,Ferrari,Florida,Purple,12.3,Minivan,Manual,160000,3,480000
+2021-10-10,2021,Chevrolet,Tennessee,Purple,34.1,Wagon,Manual,32000,3,96000
+2018-07-17,2022,BMW,Texas,Orange,39.4,G Sedan,Manual,50000,4,200000
+2019-02-08,1993,Tesla,Texas,White,5.5,Sedan,Automatic,80000,4,320000
